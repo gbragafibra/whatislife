@@ -1,0 +1,31 @@
+\documentclass[a4paper,12pt,twoside,leqno]{article}
+\usepackage[marginratio={5:5, 5:5}, textwidth=150mm, ]{geometry}
+
+
+\pagenumbering{gobble}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\usepackage{amsmath}
+\usepackage{pdfrender}
+\usepackage{tikz}
+\usetikzlibrary{quotes}
+\usetikzlibrary{automata, arrows.meta, positioning}
+\pdfrender{StrokeColor=black,TextRenderingMode=2,LineWidth= 0.5 pt}
+\newtheorem{question}{Question}
+\newtheorem{note}{Quick Note}
+\title{ORGANISMS AREN'T, THEY HAPPEN}
+\author{\small{GONÇALO BRAGA}}
+\date{}
+
+\begin{document}
+\maketitle
+\abstract{This is merely to keep track of where, and how I'm thinking about the problem, in a very informal manner.}
+\subsection*{Introductory statement}
+Organisms and life (the process) are actually things that are very illusive. We usually go on to describe proxies of them, as in genetics, molecular biology, and overall life-sciences, but organizational principles and a description of what organismal organization is, is missing. There are have been a miriad of attempts at doing so, and a common theme is that of relations. An organism is in virtue of the relations between its constituents. What matters are the relations, and not the constituents themselves. That's why some people (Varela, etc), refer to what we see as an physical instantiation of life. If there would be other substrates that nonetheless show the same relations between themselves, such system would be characterized as an organism.\\
+Even more than this central theme, is one derived from it: self-reference or impredicativity. It means that such systems are self-determined, and can be illustrated very simply, as by what Rosen (presumably one of the first to put the argument into completely relational terms with category theory) pointed out. If we take $f$ as metabolism, we have
+\begin{equation}
+f(f) = f
+\end{equation}
+Here $f$ is serving as function, argument and result. Mathematics as a whole tries to push away such infinite regress, and such characteristic is the bane of its existence (presumably only under classical logic; such that three-value logics might be able to go around this problem, or even just using constructive logic). A bunch of paradoxes: Liar paradox (Epimenides'), Halting problem, Russel's paradox, etc, derive from this. One needs to understand, though, that under this infinite regress $f(f(f(f(...))) = f$, the ambiguity in understanding where such object is serving under each role (function, argument, etc), is precisely why semantics can't be completely reduced to syntax, and this shouldn't be avoided. It should be actually explored in a full manner, much like the way that the real domain was expanded into the complex domain by addition of another object $i = \sqrt{-1}$, by having the contradiction $x^2 = -1$. Here $x$ would need to be both positive and negative for it to follow. This is the type of exercise which is taken by three-value logics, and more specifically with Spencer-Browns' calculus of indications, which was later extended by Francisco Varela. 
+
+\end{document}
