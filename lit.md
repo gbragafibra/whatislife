@@ -1,6 +1,24 @@
 # Resources
 
 
+### General
+
+- Schrodinger, E. (2012). What is life?: With mind and matter and autobiographical sketches. Cambridge university press.
+
+- Rosen, R. (1991). Life itself: a comprehensive inquiry into the nature, origin, and fabrication of life. Columbia University Press.
+
+- Rosen, R. (2000). Essays on life itself. Columbia University Press.
+
+- Rosen, R. (1978). Fundamentals of measurement and representation of natural systems. (No Title).
+
+- Rosen, R. (2011). Anticipatory systems. In Anticipatory systems: Philosophical, mathematical, and methodological foundations (pp. 313-370). New York, NY: Springer New York.
+
+- Varela, F. (1979). Principles of Biological Autonomy.
+
+- Montévil, M., & Mossio, M. (2015). Biological organisation as closure of constraints. Journal of theoretical biology, 372, 179-191.
+
+- Nicholson, D. J., & Dupré, J. (2018). Everything flows: towards a processual philosophy of biology (p. 416). Oxford University Press.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
@@ -18,6 +36,8 @@
 - Kauffman, L. H. (2009). Reflexivity and Eigenform: The Shape of Process. Constructivist Foundations, 4(3).
 
 - Kauffman, L. H. (1996). Virtual logic. Systems Research, 13(3), 293-310.
+
+- Soto-Andrade, J., & Varela, F. J. (1984). Self-reference and fixed points: a discussion and an extension of Lawvere's theorem. Acta Applicandae Mathematica, 2, 1-19.
 
 ### Category theory related
 
