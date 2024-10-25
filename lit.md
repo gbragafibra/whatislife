@@ -19,6 +19,8 @@
 
 - Nicholson, D. J., & Dupré, J. (2018). Everything flows: towards a processual philosophy of biology (p. 416). Oxford University Press.
 
+- Mossio, M., Longo, G., & Stewart, J. (2009). A computable expression of closure to efficient causation. Journal of Theoretical Biology, 257(3), 489-498.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
