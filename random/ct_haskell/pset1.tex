@@ -1,0 +1,52 @@
+\documentclass[a4paper,12pt,twoside,leqno]{article}
+\usepackage[marginratio={5:5, 5:5}, textwidth=150mm, ]{geometry}
+
+
+\pagenumbering{gobble}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usetikzlibrary{quotes}
+\usetikzlibrary{automata, arrows.meta, positioning}
+\usepackage{tikz-cd}
+\title{}
+\author{}
+\date{}
+
+
+\begin{document}
+\maketitle
+\abstract{Some exercises from \url{http://brendanfong.com/programmingcats_files/ps1.pdf}}
+\paragraph*{}
+
+\textbf{Exercise 2}\par 
+\textbf{a)}
+$Ob(\mathcal{C}) = {1, 2}$; The sets of morphisms: $\mathcal{C}(1,1), \mathcal{C}(1,2), \mathcal{C}(2,1), \mathcal{C}(2,2)$. The composition rule $f \circ id_{1} = id_{2} \circ f: 1 \rightarrow 2$. The identity morphisms: $id_{1}$ and $id_{2}$.\par 
+\textbf{b)}Unit: $f \circ id_{1} = f$ and $id_{2} \circ f = f$. Associative: $f \circ id_{1} = id_{2} \circ f$.
+\paragraph*{}
+\textbf{Exercise 3}\par 
+If there are no identity morphisms $id_{c}$ and $id_{d}$, then we can't affirm an isomorphism with $g = f^{-1}$, given that we can't prove $g \circ f = id_{c}$ and $f \circ g = id_{d}$?
+\paragraph*{}
+\textbf{Exercise 4}\par 
+\textbf{a)}Following associative, but not unity law: 
+$$
+\begin{tikzcd}
+  1  \arrow[r, "f", bend left=20] &\arrow[l, "g", bend left=20] 2 
+\end{tikzcd}
+$$
+Here if $h = f \circ g$, we have $(f \circ g) \circ h = f \circ (g \circ h) = f$, but since there aren't any identity morphisms unity is not followed.\par
+\textbf{b)}Following unit, but not associative law: Can build free categories where each object has an identity morphism?
+\paragraph*{}
+\textbf{Exercise 5}\par 
+\textbf{a)} The carrier set is $\mathbb{N}$, operation or function is $+$ and the identity element $0$. Unity is followed as any $n \in \mathbb{N} = n$, when $e*n$ or $n*e$, given that $n + 0 = n$. Associativity follows given that addition is commutative.\par 
+\textbf{b)} Here $\textrm{List}_{\{0, 1\}}$ is the carrier set, concatenation the operation, and empty string [] the identity. Unity is followed given that concatenating an empty string to an initial string $s$ will output the $s$. Associativity isn't followed? Order of concatenation matters?\par 
+\textbf{c)} This is because a monoid is a category that only has one homset. Consider the $\mathbb{N}$ carrier set in a). All morphisms in this monoid are of the type $\mathbb{N} \rightarrow \mathbb{N}$, with the corresponding monoid operation and identity element. This is the case for any monoid independent of the triple $(M, e, \diamond)$.
+\paragraph*{}
+\textbf{Exercise 6}\par 
+\textbf{a)} $id_{12} = 1$ given that for $x * 12 = 12$ only $x = 1$ suffices.\par
+\textbf{b)} If $x: a \rightarrow b$ and $y: b \rightarrow c$ then $y \circ x: a \rightarrow c$ implies that if $b$ is divisible by $a$ and $c$ is divisible by $b$, then $c$ is divisible by $a$, which follows given that division is transitive. \par 
+\textbf{c)} If $\mathcal{P}$ would be given by all $\mathbb{N}$, then the previous arguments wouldn't work because division by 0 is undefined.
+
+\end{document}
