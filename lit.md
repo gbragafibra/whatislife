@@ -42,3 +42,7 @@
 ### Category theory related
 
 - [Programming with categories](http://brendanfong.com/programmingcats_files/cats4progs-DRAFT.pdf)
+
+### λ-calculus related
+
+- [Tutorial Introduction to the Lambda calculus](https://personal.utdallas.edu/~gupta/courses/apl/lambda.pdf)
