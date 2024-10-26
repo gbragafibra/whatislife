@@ -48,5 +48,44 @@ Here if $h = f \circ g$, we have $(f \circ g) \circ h = f \circ (g \circ h) = f$
 \textbf{a)} $id_{12} = 1$ given that for $x * 12 = 12$ only $x = 1$ suffices.\par
 \textbf{b)} If $x: a \rightarrow b$ and $y: b \rightarrow c$ then $y \circ x: a \rightarrow c$ implies that if $b$ is divisible by $a$ and $c$ is divisible by $b$, then $c$ is divisible by $a$, which follows given that division is transitive. \par 
 \textbf{c)} If $\mathcal{P}$ would be given by all $\mathbb{N}$, then the previous arguments wouldn't work because division by 0 is undefined.
+\paragraph*{}
+\textbf{Exercise 7}\par
+Let
+$$
+\textrm{True} = \lambda x. (\lambda y.x)
+$$ 
+$$
+\textrm{False} = \lambda x. (\lambda y.y)
+$$
+$$
+\textrm{AND} = \lambda p. (\lambda q.(pq)p)
+$$
+$$
+\textrm{OR} = \lambda p. (\lambda q.(pp)q)
+$$
+If we have (AND True)False, this will evaluate to
+\begin{align*}
+\textrm{(AND True)False} &= \lambda p. (\lambda q.(pq)p)(\textrm{True})(\textrm{False})\\
+&= \textrm{True}\, \textrm{False} \,\textrm{True}\\ &= \textrm{False}
+\end{align*}
+For (OR False)True
+\begin{align*}
+\textrm{(OR False)True} &= \lambda p. (\lambda q.(pp)q)(\textrm{False})(\textrm{True})\\
+&= \textrm{False}\, \textrm{False} \,\textrm{True}\\ &= \textrm{True}
+\end{align*}
+\paragraph*{}
+\textbf{Exercise 8}\par
+The Y combinator is defined as follows
+$$
+Y = \lambda f.((\lambda x.f(xx))(\lambda x.f(xx)))
+$$
+$Y g$ will then be computed as
+\begin{align*}
+Y g &= \lambda f.((\lambda x.f(xx))(\lambda x.f(xx)))g \\
+& = \lambda f.(f((\lambda x.f(xx))(\lambda x.f(xx)))g\\
+& = g((\lambda x.g(xx))(\lambda x.g(xx)))\\
+& = g(\underbrace{g((\lambda x.g(xx))(\lambda x.g(xx)))}_\text{Y g})\\
+Y g &= g(Y g) = g(g(Y g)) = \dots
+\end{align*}
 
 \end{document}
