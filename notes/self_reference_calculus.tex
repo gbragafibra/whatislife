@@ -1,0 +1,67 @@
+\documentclass[a4paper,12pt,twoside,leqno]{article}
+\usepackage[marginratio={5:5, 5:5}, textwidth=150mm, ]{geometry}
+
+
+\pagenumbering{gobble}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usetikzlibrary{quotes}
+\usetikzlibrary{automata, arrows.meta, positioning}
+\usetikzlibrary{calc}
+
+\title{A primer on calculus of indications}
+\author{Gonçalo Braga}
+
+\newcommand{\marked}[1]{%
+  \tikz[baseline=(base)]{
+    \node[inner sep=0pt, outer sep=0pt] (base) {\strut#1};
+    % Draw the top and right lines of the corner
+    \draw[thick] 
+      ($(base.north west) + (-0.4em, 0.2em)$) -- ($(base.north east) + (0.2em, 0.2em)$) -- 
+      ($(base.north east) + (0.2em, -0.2em)$) -- ($(base.south east) + (0.2em, 0.4em)$);
+  }%
+}
+
+
+\begin{document}
+\maketitle
+\abstract{A primer on calculus of indications, specifically building towards an understanding of Varela's extended calculus. Very informal summary.}
+\subsection*{Calculus of indications}
+The marked state is presented by $\marked{}$\,, and the unmarked state is presented by the blank $\quad$. The two-fold meaning of making a distinction with $\marked{}$ allows for a calculus without the common operand/operator distinction.
+\subsection*{Initials}
+\begin{equation}\label{1}
+\marked{}\, \marked{} = \marked{}
+\end{equation}
+\begin{equation}\label{2}
+\marked{\marked{}} = 
+\end{equation}
+\subsection*{Primary arithmetic}
+Consequences from initials \ref{1} and \ref{2}, with the example:
+$$
+\marked{\marked{}\,\marked{}}\,\marked{\marked{\marked{}}}\,\marked{} = \marked{}\,\marked{} = \marked{}
+$$
+As for the central axioms of this primary arithmetic, we have:
+\begin{equation}
+\marked{\marked{p}p} = 
+\end{equation}
+and 
+\begin{equation}
+\marked{\marked{pr}\,\marked{qr}} = \marked{\marked{p}\,\marked{q}}r
+\end{equation}
+\subsection*{Re-entry in the primary algebra}
+In order to fix situations of infinite regress like the following
+$$
+\marked{\marked{\marked{\dots}}}
+$$
+one can have re-entry in the following manner, much as with the Y-combinator in the $\lambda$-calculus:
+\begin{equation}
+f = \marked{f}
+\end{equation}
+where one gets a fixed and finite expression, for what would otherwise be evaluated onto:
+\begin{equation}
+f = \marked{f} = \marked{\marked{f}} = \marked{\marked{\marked{\dots}}}
+\end{equation}
+\end{document}
