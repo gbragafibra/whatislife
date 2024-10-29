@@ -21,6 +21,14 @@
 
 - Mossio, M., Longo, G., & Stewart, J. (2009). A computable expression of closure to efficient causation. Journal of Theoretical Biology, 257(3), 489-498.
 
+- Letelier, J. C., Soto-Andrade, J., Abarzúa, F. G., Cornish-Bowden, A., & Cárdenas, M. L. (2006). Organizational invariance and metabolic closure: analysis in terms of (M, R) systems. Journal of theoretical biology, 238(4), 949-961.
+
+- Cárdenas, M. L., Letelier, J. C., Gutierrez, C., Cornish-Bowden, A., & Soto-Andrade, J. (2010). Closure to efficient causation, computability and artificial life. Journal of Theoretical Biology, 263(1), 79-92.
+
+- Letelier, J. C., Marın, G., & Mpodozis, J. (2003). Autopoietic and (M, R) systems. Journal of theoretical biology, 222(2), 261-272.
+
+- Letelier, J. C., Kuboyama, T., Yasuda, H., Cárdenas, M. L., & Cornish-Bowden, A. (2005). A self-referential equation, f (f)= f, obtained by using the theory of (m; r) systems: Overview and applications. Algebraic biology, 2005, 115-126.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
