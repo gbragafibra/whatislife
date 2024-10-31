@@ -29,6 +29,14 @@
 
 - Letelier, J. C., Kuboyama, T., Yasuda, H., Cárdenas, M. L., & Cornish-Bowden, A. (2005). A self-referential equation, f (f)= f, obtained by using the theory of (m; r) systems: Overview and applications. Algebraic biology, 2005, 115-126.
 
+- Fontana, W., & Buss, L. W. (1994). What would be conserved if" the tape were played twice"?. Proceedings of the National Academy of Sciences, 91(2), 757-761.
+
+- Fontana, W. (2018). Functional self-organization in complex systems. In Pattern Formation in the Physical and Biological Sciences (pp. 43-63). CRC Press.
+
+- Fontana, W., & Buss, L. W. (1994). “The arrival of the fittest”: Toward a theory of biological organization. Bulletin of Mathematical Biology, 56, 1-64.
+
+- Fontana, W., & Buss, L. W. (1996). The barrier of objects: From dynamical systems to bounded organizations.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
