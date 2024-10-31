@@ -37,6 +37,8 @@
 
 - Fontana, W., & Buss, L. W. (1996). The barrier of objects: From dynamical systems to bounded organizations.
 
+- Soto-Andrade, J., Jaramillo, S., Gutiérrez, C., & Letelier, J. C. (2011). Ouroboros avatars: A mathematical exploration of self-reference and metabolic closure. In Advances in artificial life ECAL 2011: Proceedings of the eleventh European conference on the synthesis and simulation of living systems (pp. 763-770). The MIT Press, Cambridge, MA.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
