@@ -45,6 +45,9 @@
 
 - [DIAGONAL ARGUMENTS AND CARTESIAN CLOSED CATEGORIES, F. WILLIAM LAWVERE](https://www.emis.de/journals/TAC/reprints/articles/15/tr15.pdf)
 
+- Scott, D. (1973). Models for various type-free calculi. In Studies in Logic and the Foundations of Mathematics (Vol. 74, pp. 157-187). Elsevier.
+
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
