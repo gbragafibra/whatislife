@@ -39,6 +39,12 @@
 
 - Soto-Andrade, J., Jaramillo, S., Gutiérrez, C., & Letelier, J. C. (2011). Ouroboros avatars: A mathematical exploration of self-reference and metabolic closure. In Advances in artificial life ECAL 2011: Proceedings of the eleventh European conference on the synthesis and simulation of living systems (pp. 763-770). The MIT Press, Cambridge, MA.
 
+- Scott, D. S. (1972). Continuous lattices. Toposes, algebraic geometry and logic, 274, 97-136.
+
+- Scott, D. (1980). Lambda calculus: some models, some philosophy. In Studies in Logic and the Foundations of Mathematics (Vol. 101, pp. 223-265). Elsevier.
+
+- [DIAGONAL ARGUMENTS AND CARTESIAN CLOSED CATEGORIES, F. WILLIAM LAWVERE](https://www.emis.de/journals/TAC/reprints/articles/15/tr15.pdf)
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
