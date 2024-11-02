@@ -47,6 +47,7 @@
 
 - Scott, D. (1973). Models for various type-free calculi. In Studies in Logic and the Foundations of Mathematics (Vol. 74, pp. 157-187). Elsevier.
 
+- Rosen, R. (1977). Complexity as a system property. International Journal Of General System, 3(4), 227-232.
 
 ### Calculus of indications related
 
