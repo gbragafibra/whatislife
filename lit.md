@@ -49,6 +49,8 @@
 
 - Rosen, R. (1977). Complexity as a system property. International Journal Of General System, 3(4), 227-232.
 
+- Yanofsky, N. S. (2003). A universal approach to self-referential paradoxes, incompleteness and fixed points. Bulletin of Symbolic Logic, 9(3), 362-386.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
