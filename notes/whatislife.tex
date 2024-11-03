@@ -50,4 +50,37 @@ There's a peculiar similarity between these "problems", that condense into: sema
 It appears as if different, successively larger levels are connected and intercross at the point where the constituents of the new lower level refer to themselves, where antinomic forms appear, and time sets in.
 \end{quotation}
 Self-reference or impredicativity is the name of the game.
+\subsection*{(M, R)-system in type-free $\lambda$-calculus}
+As given in Mossio et al. (2009), although with some contentions with assumptions as discussed in Cárdenas et al.(2010), Rosen's canonical (M, R)-system can be put into untyped $\lambda$-calculus in the following manner. The corresponding morphisms would be, given that we associate $\beta = B$:
+$$
+(fA) = B
+$$
+$$
+(\Phi B) = f
+$$
+and
+$$
+(Bf) = \Phi
+$$
+Replacing $B$ and then $\Phi$ we get:
+$$
+f = ((fA)f)(fA)
+$$
+We can now introduce $G = \lambda x.((xA)x)xA$ and the $Y$ combinator as $Y = \lambda y.(\lambda x.y(xx))(\lambda x.y(xx))$, from which :
+$$
+G(YG) = YG
+$$
+follows. Introducing $f = YG$, we then state:
+$$
+f = Gf = ((fA)f)(fA)
+$$
+given that we'll have:
+$$
+B = ((YG)A) = YGA
+$$
+and
+$$
+\Phi = (B(YG)) = (YGA)(YG)
+$$
+As such, we have $f$, $\Phi$ and $B$ all defined in terms of $A$ and the $Y$ combinator. There are some arguments in Mossio et al. (2009) asserting that Rosen's (M, R)-system is not really impredicative, and even if it were, such condition wouldn't preclude it from not being computable, as in simulation sake. Cárdenas et al. (2010) say that the computability of such diagram isn't valid given that the association $\beta = B$ is not valid, and that the strenght of the proof given by Mossio et al. (2009) is weaker than Rosen's version which is based on Turing's definition of computability. 
 \end{document}
