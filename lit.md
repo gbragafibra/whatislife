@@ -61,6 +61,8 @@
 
 - Rosen, R. (1973). On the Dynamical realization of (M, R)-Systems. Bulletin of Mathematical Biology, 35, 1-9.
 
+- Longo, G., & Montévil, M. (2014). Perspectives on organisms. Berlin: Springer.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
