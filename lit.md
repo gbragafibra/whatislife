@@ -59,6 +59,8 @@
 
 - Bailly, F., & Longo, G. (2008). Extended critical situations: the physical singularity of life phenomena. Journal of Biological Systems, 16(02), 309-336.
 
+- Rosen, R. (1973). On the Dynamical realization of (M, R)-Systems. Bulletin of Mathematical Biology, 35, 1-9.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
