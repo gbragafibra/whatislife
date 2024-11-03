@@ -53,6 +53,8 @@
 
 - Wolkenhauer, O., & Hofmeyr, J. H. S. (2007). An abstract cell model that describes the self-organization of cell function in living systems. Journal of theoretical biology, 246(3), 461-476.
 
+- Longo, G., & Paul, T. (2011). The mathematics of computing between logic and physics. In Computability in Context: Computation and Logic in the Real World (pp. 243-273).
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
