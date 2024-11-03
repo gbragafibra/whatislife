@@ -51,6 +51,8 @@
 
 - Yanofsky, N. S. (2003). A universal approach to self-referential paradoxes, incompleteness and fixed points. Bulletin of Symbolic Logic, 9(3), 362-386.
 
+- Wolkenhauer, O., & Hofmeyr, J. H. S. (2007). An abstract cell model that describes the self-organization of cell function in living systems. Journal of theoretical biology, 246(3), 461-476.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
