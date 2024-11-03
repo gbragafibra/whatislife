@@ -57,6 +57,8 @@
 
 - Longo, G. (2009). Critique of computational reason in the natural sciences. In Fundamental concepts in computer science (pp. 43-70).
 
+- Bailly, F., & Longo, G. (2008). Extended critical situations: the physical singularity of life phenomena. Journal of Biological Systems, 16(02), 309-336.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
