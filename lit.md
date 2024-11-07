@@ -90,3 +90,11 @@
 ### λ-calculus related
 
 - [Tutorial Introduction to the Lambda calculus](https://personal.utdallas.edu/~gupta/courses/apl/lambda.pdf)
+
+### Allometric scaling related
+
+- Dodds, P. S., Rothman, D. H., & Weitz, J. S. (2001). Re-examination of the “3/4-law” of metabolism. Journal of Theoretical Biology, 209(1), 9-27.
+
+- West, G. B., Brown, J. H., & Enquist, B. J. (1999). The fourth dimension of life: fractal geometry and allometric scaling of organisms. science, 284(5420), 1677-1679.
+
+- Smil, V. (2000). Laying down the law. Nature, 403(6770), 597-597.
