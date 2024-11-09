@@ -65,6 +65,8 @@
 
 - Pattee, H. H. (2001). The physics of symbols: bridging the epistemic cut. Biosystems, 60(1-3), 5-21.
 
+- Deacon, T. W. (2011). Incomplete nature: How mind emerged from matter. WW Norton & Company.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
