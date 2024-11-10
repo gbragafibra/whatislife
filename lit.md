@@ -67,6 +67,8 @@
 
 - Deacon, T. W. (2011). Incomplete nature: How mind emerged from matter. WW Norton & Company.
 
+- Mossio, M. (2024). Organization in Biology (p. 333). Springer Nature.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
