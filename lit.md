@@ -69,6 +69,8 @@
 
 - Mossio, M. (2024). Organization in Biology (p. 333). Springer Nature.
 
+- Fontana, W., & Buss, L. W. (1994). What would be conserved if" the tape were played twice"?. Proceedings of the National Academy of Sciences, 91(2), 757-761.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
