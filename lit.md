@@ -71,6 +71,8 @@
 
 - Fontana, W., & Buss, L. W. (1994). What would be conserved if" the tape were played twice"?. Proceedings of the National Academy of Sciences, 91(2), 757-761.
 
+- [Odifreddi, P. 1989. Classical Recursion Theory. Amsterdam: North-Holland.](http://www.piergiorgioodifreddi.it/wp-content/uploads/2010/10/CRT1.pdf)
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
