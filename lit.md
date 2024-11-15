@@ -73,6 +73,8 @@
 
 - [Odifreddi, P. 1989. Classical Recursion Theory. Amsterdam: North-Holland.](http://www.piergiorgioodifreddi.it/wp-content/uploads/2010/10/CRT1.pdf)
 
+- Fontana, W. (1990). Algorithmic chemistry (No. LA-UR-90-4352; CONF-9002163-1). Los Alamos National Lab., NM (USA).
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
