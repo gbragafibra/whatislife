@@ -77,6 +77,8 @@
 
 - Deacon, T. W. (2021). How molecules became signs. Biosemiotics, 14(3), 537-559.
 
+- Deacon, T. W., Srivastava, A., & Bacigalupi, J. A. (2014). The transition from constraint to regulation at the origin of life. Front Biosci, 19, 945-57.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
