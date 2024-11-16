@@ -69,11 +69,13 @@
 
 - Mossio, M. (2024). Organization in Biology (p. 333). Springer Nature.
 
-- Fontana, W., & Buss, L. W. (1994). What would be conserved if" the tape were played twice"?. Proceedings of the National Academy of Sciences, 91(2), 757-761.
-
 - [Odifreddi, P. 1989. Classical Recursion Theory. Amsterdam: North-Holland.](http://www.piergiorgioodifreddi.it/wp-content/uploads/2010/10/CRT1.pdf)
 
 - Fontana, W. (1990). Algorithmic chemistry (No. LA-UR-90-4352; CONF-9002163-1). Los Alamos National Lab., NM (USA).
+
+- Kauffman, S., Logan, R. K., Este, R., Goebel, R., Hobill, D., & Shmulevich, I. (2024). Propagating Organization: An Enquiry 1. In LIFE (pp. 81-101). Intellect.
+
+- Deacon, T. W. (2021). How molecules became signs. Biosemiotics, 14(3), 537-559.
 
 ### Calculus of indications related
 
