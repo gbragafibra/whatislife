@@ -79,6 +79,8 @@
 
 - Deacon, T. W., Srivastava, A., & Bacigalupi, J. A. (2014). The transition from constraint to regulation at the origin of life. Front Biosci, 19, 945-57.
 
+- Deacon, T., Heskes, T., & Leijnen, S. (2016, July). Exploring constraint: Simulating self-organization and autogenesis in the autogenic automaton. In ALIFE 2016, the Fifteenth International Conference on the Synthesis and Simulation of Living Systems (pp. 68-75). MIT Press.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
