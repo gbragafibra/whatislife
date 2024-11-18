@@ -105,6 +105,8 @@
 
 - [Programming with categories](http://brendanfong.com/programmingcats_files/cats4progs-DRAFT.pdf)
 
+- [Category Theory and λ-calculus](https://mroman42.github.io/ctlc/ctlc.pdf)
+
 ### λ-calculus related
 
 - [Tutorial Introduction to the Lambda calculus](https://personal.utdallas.edu/~gupta/courses/apl/lambda.pdf)
