@@ -83,6 +83,10 @@
 
 - Kauffman, S. (2021). Autogen is a Kantian Whole in the non-entailed world. Biosemiotics, 14(3), 569-572.
 
+- Kauffman, S., & Roli, A. (2021). The world is not a theorem. Entropy, 23(11), 1467.
+
+- Kauffman, S. A., & Roli, A. (2021). Beyond the Newtonian paradigm: a statistical mechanics of emergence. arXiv preprint arXiv:2106.15271.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
