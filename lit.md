@@ -81,6 +81,8 @@
 
 - Deacon, T., Heskes, T., & Leijnen, S. (2016, July). Exploring constraint: Simulating self-organization and autogenesis in the autogenic automaton. In ALIFE 2016, the Fifteenth International Conference on the Synthesis and Simulation of Living Systems (pp. 68-75). MIT Press.
 
+- Kauffman, S. (2021). Autogen is a Kantian Whole in the non-entailed world. Biosemiotics, 14(3), 569-572.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
