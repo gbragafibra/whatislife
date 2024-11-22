@@ -89,6 +89,8 @@
 
 - Weber, A., & Varela, F. J. (2002). Life after Kant: Natural purposes and the autopoietic foundations of biological individuality. Phenomenology and the cognitive sciences, 1(2), 97-125.
 
+- McMullin, B. (2004). Thirty years of computational autopoiesis: A review. Artificial life, 10(3), 277-295.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
