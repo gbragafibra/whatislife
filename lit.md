@@ -101,6 +101,12 @@
 
 - García-Valdecasas, M., & Deacon, T. W. (2024). Origins of biological teleology: how constraints represent ends. Synthese, 204(2), 75.
 
+- Varela, F. J. (1991). Organism: A meshwork of selfless selves. In Organism and the Origins of Self (pp. 79-107). Dordrecht: Springer Netherlands.
+
+- Deacon, T. W. (2023). Minimal Properties of a Natural Semiotic System: Response to Commentaries on “How Molecules Became Signs”. Biosemiotics, 16(1), 1-13.
+
+- Pattee, H. H. (2021). Symbol grounding precedes interpretation. Biosemiotics, 1-8.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
