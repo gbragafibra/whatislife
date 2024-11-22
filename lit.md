@@ -91,6 +91,8 @@
 
 - McMullin, B. (2004). Thirty years of computational autopoiesis: A review. Artificial life, 10(3), 277-295.
 
+- [Artificial Life II; Santa Fe Institute](https://gwern.net/doc/ai/1992-langton-artificiallife-2.pdf)
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
