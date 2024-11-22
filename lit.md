@@ -95,6 +95,10 @@
 
 - Von Neumann, J., & Burks, A. W. (1966). Theory of self-reproducing automata.
 
+- Barbieri, M. (Ed.). (2007). Introduction to biosemiotics: The new biological synthesis. Springer Science & Business Media.
+
+- Hoffmeyer, J. (2015). Introduction: semiotic scaffolding. Biosemiotics, 8(2), 153-158.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
