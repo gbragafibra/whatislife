@@ -99,6 +99,8 @@
 
 - Hoffmeyer, J. (2015). Introduction: semiotic scaffolding. Biosemiotics, 8(2), 153-158.
 
+- García-Valdecasas, M., & Deacon, T. W. (2024). Origins of biological teleology: how constraints represent ends. Synthese, 204(2), 75.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
