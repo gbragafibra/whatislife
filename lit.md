@@ -93,6 +93,8 @@
 
 - [Artificial Life II; Santa Fe Institute](https://gwern.net/doc/ai/1992-langton-artificiallife-2.pdf)
 
+- Von Neumann, J., & Burks, A. W. (1966). Theory of self-reproducing automata.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
