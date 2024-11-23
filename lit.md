@@ -117,6 +117,10 @@
 
 - [Intuitionistic Logic](https://eprints.illc.uva.nl/id/eprint/200/1/PP-2006-25.text.pdf)
 
+- [Introduction to Intuitionistic Logic](https://builds.openlogicproject.org/content/intuitionistic-logic/intuitionistic-logic.pdf)
+
+- [THE CATEGORICAL ABSTRACT MACHINE](https://core.ac.uk/download/pdf/82453178.pdf)
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
