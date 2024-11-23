@@ -115,6 +115,8 @@
 
 - Jaeger, J., Riedl, A., Djedovic, A., Vervaeke, J., & Walsh, D. (2024). Naturalizing relevance realization: why agency and cognition are fundamentally not computational. Frontiers in psychology, 15, 1362658.
 
+- [Intuitionistic Logic](https://eprints.illc.uva.nl/id/eprint/200/1/PP-2006-25.text.pdf)
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
