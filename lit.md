@@ -107,6 +107,14 @@
 
 - Pattee, H. H. (2021). Symbol grounding precedes interpretation. Biosemiotics, 1-8.
 
+- Von Neumann, J. (2017). The general and logical theory of automata. In Systems research for behavioral science (pp. 97-107). Routledge.
+
+- Hofmeyr, J. H. S. (2021). A biochemically-realisable relational model of the self-manufacturing cell. Biosystems, 207, 104463.
+
+- Cornish-Bowden, A., & Cárdenas, M. L. (2020). Contrasting theories of life: Historical context, current theories. In search of an ideal theory. Biosystems, 188, 104063.
+
+- Jaeger, J., Riedl, A., Djedovic, A., Vervaeke, J., & Walsh, D. (2024). Naturalizing relevance realization: why agency and cognition are fundamentally not computational. Frontiers in psychology, 15, 1362658.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
