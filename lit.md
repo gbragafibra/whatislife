@@ -121,6 +121,8 @@
 
 - [THE CATEGORICAL ABSTRACT MACHINE](https://core.ac.uk/download/pdf/82453178.pdf)
 
+- Hofmeyr, J. H. S. (2018). Causation, constructors and codes. Biosystems, 164, 121-127.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
