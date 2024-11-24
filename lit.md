@@ -125,6 +125,8 @@
 
 - [Models and theories of λ-calculus](https://theses.hal.science/tel-00715207/document)
 
+- Pattee, H. H., & Rączaszek-Leonardi, J. (2012). Laws, language and life: Howard Pattee’s classic papers on the physics of symbols with contemporary commentary (Vol. 7). Springer Science & Business Media.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
