@@ -127,6 +127,8 @@
 
 - Pattee, H. H., & Rączaszek-Leonardi, J. (2012). Laws, language and life: Howard Pattee’s classic papers on the physics of symbols with contemporary commentary (Vol. 7). Springer Science & Business Media.
 
+- Harnad, S. (1990). The symbol grounding problem. Physica D: Nonlinear Phenomena, 42(1-3), 335-346.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
