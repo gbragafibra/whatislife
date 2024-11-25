@@ -135,6 +135,8 @@
 
 - Di Paolo, E. A. (2005). Autopoiesis, adaptivity, teleology, agency. Phenomenology and the cognitive sciences, 4(4), 429-452.
 
+- García-Valdecasas, M. (2022). On the naturalisation of teleology: self-organisation, autopoiesis and teleodynamics. Adaptive Behavior, 30(2), 103-117.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
