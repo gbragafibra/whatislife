@@ -133,6 +133,8 @@
 
 - Froese, T. (2021). To understand the origin of life we must first understand the role of normativity. Biosemiotics, 14(3), 657-663.
 
+- Di Paolo, E. A. (2005). Autopoiesis, adaptivity, teleology, agency. Phenomenology and the cognitive sciences, 4(4), 429-452.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
