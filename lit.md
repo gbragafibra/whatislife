@@ -129,6 +129,10 @@
 
 - Harnad, S. (1990). The symbol grounding problem. Physica D: Nonlinear Phenomena, 42(1-3), 335-346.
 
+- Favareau, D. (2021). Facing Up to the Hard Problem of Biosemiotics: A commentary on Terrence Deacon’s “How molecules became signs”. Biosemiotics, 14(3), 603-615.
+
+- Froese, T. (2021). To understand the origin of life we must first understand the role of normativity. Biosemiotics, 14(3), 657-663.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
