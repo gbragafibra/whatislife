@@ -139,6 +139,10 @@
 
 - Froese, T. (2010). Life after Ashby: ultrastability and the autopoietic foundations of biological autonomy. Cybernetics & Human Knowing, 17(4), 7-49.
 
+- Pattee, H. H., Rączaszek-Leonardi, J., & Pattee, H. H. (2012). Evolving self-reference: matter, symbols, and semantic closure. Laws, Language and Life: Howard Pattee’s classic papers on the physics of symbols with contemporary commentary, 211-226.
+
+- Rosen, R. (1993). Bionics revisited. In The machine as metaphor and tool (pp. 87-100). Berlin, Heidelberg: Springer Berlin Heidelberg.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
