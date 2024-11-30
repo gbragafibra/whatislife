@@ -149,6 +149,8 @@
 
 - Pattee, H. H. (1993). The limitations of formal models of measurement, control, and cognition. Applied mathematics and computation, 56(2-3), 111-130.
 
+- Rosen, R. (1987). On the scope of syntactics in mathematics and science: the machine metaphor. In Real brains: artificial minds (pp. 1-23).
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
