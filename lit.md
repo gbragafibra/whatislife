@@ -143,6 +143,8 @@
 
 - Rosen, R. (1993). Bionics revisited. In The machine as metaphor and tool (pp. 87-100). Berlin, Heidelberg: Springer Berlin Heidelberg.
 
+- Pattee, H. H. (2007). Laws, constraints, and the modeling relation–history and interpretations. Chemistry & biodiversity, 4(10), 2272-2295.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
