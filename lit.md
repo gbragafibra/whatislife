@@ -151,6 +151,10 @@
 
 - Rosen, R. (1987). On the scope of syntactics in mathematics and science: the machine metaphor. In Real brains: artificial minds (pp. 1-23).
 
+- Rosen, R. (1989). The roles of necessity in biology. In Newton to Aristotle: Toward a Theory of Models for Living Systems (pp. 11-37). Boston, MA: Birkhäuser Boston.
+
+- Rosen, R. (1995). Effective processes and natural law. In The universal Turing machine (2nd ed.) a half-century survey (pp. 485-498).
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
