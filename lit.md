@@ -147,6 +147,8 @@
 
 - Rosen, R. (1986). The Physics of Complexity: Ashby Memorial Lecture. In Power, Autonomy, Utopia: New Approaches Toward Complex Systems (pp. 35-42). Boston, MA: Springer US.
 
+- Pattee, H. H. (1993). The limitations of formal models of measurement, control, and cognition. Applied mathematics and computation, 56(2-3), 111-130.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
