@@ -145,6 +145,8 @@
 
 - Pattee, H. H. (2007). Laws, constraints, and the modeling relation–history and interpretations. Chemistry & biodiversity, 4(10), 2272-2295.
 
+- Rosen, R. (1986). The Physics of Complexity: Ashby Memorial Lecture. In Power, Autonomy, Utopia: New Approaches Toward Complex Systems (pp. 35-42). Boston, MA: Springer US.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
