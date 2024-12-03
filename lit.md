@@ -155,6 +155,10 @@
 
 - Rosen, R. (1995). Effective processes and natural law. In The universal Turing machine (2nd ed.) a half-century survey (pp. 485-498).
 
+- Rosen, R. (1986). Causal structures in brains and machines. International Journal Of General System, 12(2), 107-126.
+
+- Rosen, R. (1962). Church’s thesis and its relation to the concept of realizability in biology and physics. The bulletin of mathematical biophysics, 24(4), 375-393.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
