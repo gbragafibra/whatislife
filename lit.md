@@ -161,6 +161,10 @@
 
 - [The Chemical Abstract Machine](https://www.lix.polytechnique.fr/~fvalenci/papers/cham.pdf)
 
+- Chemero, A., & Turvey, M. T. (2007). Complexity, hypersets, and the ecological perspective on perception-action. Biological Theory, 2, 23-36.
+
+- Chemero, A., & Turvey, M. T. (2008). Autonomy and hypersets. Biosystems, 91(2), 320-330.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
