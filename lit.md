@@ -159,6 +159,8 @@
 
 - Rosen, R. (1962). Church’s thesis and its relation to the concept of realizability in biology and physics. The bulletin of mathematical biophysics, 24(4), 375-393.
 
+- [The Chemical Abstract Machine](https://www.lix.polytechnique.fr/~fvalenci/papers/cham.pdf)
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
