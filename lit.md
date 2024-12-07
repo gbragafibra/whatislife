@@ -165,6 +165,8 @@
 
 - Chemero, A., & Turvey, M. T. (2008). Autonomy and hypersets. Biosystems, 91(2), 320-330.
 
+- Gatherer, D., & Galpin, V. (2013). Rosen’s (M, R) system in process algebra. BMC systems biology, 7, 1-11.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
