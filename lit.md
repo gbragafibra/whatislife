@@ -167,6 +167,10 @@
 
 - Gatherer, D., & Galpin, V. (2013). Rosen’s (M, R) system in process algebra. BMC systems biology, 7, 1-11.
 
+- Pattee, H. H. (2007). The physics and metaphysics of biosemiotics. Biosemiotics: Information, Codes and Signs in Living Systems, 219.
+
+- Hoffmeyer, J. (2010). The semiotics of nature: Code-duality. Essential Readings in Biosemiotics: Anthology and Commentary/Ed. by D. Favareau. Dordrecht: Springer, 583-628.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
