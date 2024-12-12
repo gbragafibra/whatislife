@@ -171,6 +171,8 @@
 
 - Hoffmeyer, J. (2010). The semiotics of nature: Code-duality. Essential Readings in Biosemiotics: Anthology and Commentary/Ed. by D. Favareau. Dordrecht: Springer, 583-628.
 
+- Hoffmeyer, J. (2000). Code‐duality and the epistemic cut. Annals of the New York Academy of Sciences, 901(1), 175-186.
+
 ### Calculus of indications related
 
 - Varela, F. J., & Goguen, J. A. (1978). The arithmetic of closure. Cybernetics and System, 8(3-4), 291-324.
