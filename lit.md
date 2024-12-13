@@ -210,3 +210,11 @@
 - West, G. B., Brown, J. H., & Enquist, B. J. (1999). The fourth dimension of life: fractal geometry and allometric scaling of organisms. science, 284(5420), 1677-1679.
 
 - Smil, V. (2000). Laying down the law. Nature, 403(6770), 597-597.
+
+### ML / AL
+
+- Yilmaz, O. (2015). Connectionist-symbolic machine intelligence using cellular automata based reservoir-hyperdimensional computing. arXiv preprint arXiv:1503.00851.
+
+- Jaeger, H. (2014). Controlling recurrent neural networks by conceptors. arXiv preprint arXiv:1403.3369.
+
+- Khajehabdollahi, S., Giannakakis, E., Buendía, V., Martius, G., & Levina, A. (2023, July). Locally adaptive cellular automata for goal-oriented self-organization. In Artificial Life Conference Proceedings 35 (Vol. 2023, No. 1, p. 59). One Rogers Street, Cambridge, MA 02142-1209, USA journals-info@ mit. edu: MIT Press.
