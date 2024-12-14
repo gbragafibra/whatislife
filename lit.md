@@ -232,3 +232,5 @@
 - McDonald, N. (2017, May). Reservoir computing & extreme learning machines using pairs of cellular automata rules. In 2017 international joint conference on neural networks (ijcnn) (pp. 2429-2436). IEEE.
 
 - Morán, A., Frasser, C. F., & Rosselló, J. L. (2018). Reservoir computing hardware with cellular automata. arXiv preprint arXiv:1806.04932.
+
+- Wulff, N., & Hertz, J. A. (1992). Learning cellular automaton dynamics with neural networks. Advances in Neural Information Processing Systems, 5.
