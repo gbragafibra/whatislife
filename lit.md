@@ -218,3 +218,17 @@
 - Jaeger, H. (2014). Controlling recurrent neural networks by conceptors. arXiv preprint arXiv:1403.3369.
 
 - Khajehabdollahi, S., Giannakakis, E., Buendía, V., Martius, G., & Levina, A. (2023, July). Locally adaptive cellular automata for goal-oriented self-organization. In Artificial Life Conference Proceedings 35 (Vol. 2023, No. 1, p. 59). One Rogers Street, Cambridge, MA 02142-1209, USA journals-info@ mit. edu: MIT Press.
+
+- Babson, N., & Teuscher, C. (2019). Reservoir Computing with Complex Cellular Automata. Complex Systems, 28(4).
+
+- Zhang, Y., & Bölcskei, H. (2024). Cellular automata, many-valued logic, and deep neural networks. arXiv preprint arXiv:2404.05259.
+
+- Gilpin, W. (2019). Cellular automata as convolutional neural networks. Physical Review E, 100(3), 032402.
+
+- Nichele, S., & Molund, A. (2017). Deep learning with cellular automaton-based reservoir computing.
+
+- Langton, C. G. (1990). Computation at the edge of chaos: Phase transitions and emergent computation. Physica D: nonlinear phenomena, 42(1-3), 12-37.
+
+- McDonald, N. (2017, May). Reservoir computing & extreme learning machines using pairs of cellular automata rules. In 2017 international joint conference on neural networks (ijcnn) (pp. 2429-2436). IEEE.
+
+- Morán, A., Frasser, C. F., & Rosselló, J. L. (2018). Reservoir computing hardware with cellular automata. arXiv preprint arXiv:1806.04932.
