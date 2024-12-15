@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.14)  15 DEC 2024 02:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.14)  15 DEC 2024 13:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -632,7 +632,7 @@ ing on Aris-totelian (be)causes
 Here is how much of TeX's memory you used:
  14506 strings out of 483065
  296832 string characters out of 5963550
- 526724 words of memory out of 5000000
+ 526725 words of memory out of 5000000
  29273 multiletter control sequences out of 15000+600000
  541143 words of font info for 58 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
@@ -649,7 +649,7 @@ mr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on whatislife.pdf (25 pages, 203111 bytes).
+Output written on whatislife.pdf (25 pages, 203948 bytes).
 PDF statistics:
  136 PDF objects out of 1000 (max. 8388607)
  96 compressed objects within 1 object stream
